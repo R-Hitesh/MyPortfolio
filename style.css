@@ -1,0 +1,33 @@
+h1{
+    background-color: rgb(29, 146, 196);
+}
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+nav{
+    background: #444;
+    text-align: center;
+    padding: 10px 0;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+nav a:hovar {
+    color: yellow;
+}
+section{
+    padding: 30px;
+}
+h2{
+    color: #333;
+}
